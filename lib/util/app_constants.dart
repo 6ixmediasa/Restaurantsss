@@ -5,7 +5,7 @@ class AppConstants {
   static const String APP_NAME = 'McChris Stores';
   static const double APP_VERSION = 6.1;
 
-  static const String BASE_URL = 'https://Mcchrisrestaurants.co.za';
+  static const String BASE_URL = 'https://mcchrisrestaurants.co.za';
   static const String CONFIG_URI = '/api/v1/config';
   static const String LOGIN_URI = '/api/v1/auth/vendor/login';
   static const String FORGET_PASSWORD_URI = '/api/v1/auth/vendor/forgot-password';
