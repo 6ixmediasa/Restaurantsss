@@ -1,4 +1,4 @@
-package com.sixamtech.stack_food_restaurant
+package com.os.mcchrisstores
 
 import io.flutter.embedding.android.FlutterActivity
 

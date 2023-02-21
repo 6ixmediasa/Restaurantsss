@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>410522356318-lqa45bo7d289g8k4ns816b6g76qqmdhb.apps.googleusercontent.com</string>
+	<string>133188875849-d8qbq2jik7vailtesee4eg6q1oaj7liv.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.410522356318-lqa45bo7d289g8k4ns816b6g76qqmdhb</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>410522356318-a06iuh8uimk0bpbq0jj96n1kbigrebre.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.133188875849-d8qbq2jik7vailtesee4eg6q1oaj7liv</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA8lpofCi358diupbxu_E8l29g349P1INc</string>
+	<string>AIzaSyCAn75Q-u8IUlFMODFg_bdk4VsxkdF6hFc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>410522356318</string>
+	<string>133188875849</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.u6amtech.flutterRestaurant</string>
+	<string>com.os.mcchrisstores</string>
 	<key>PROJECT_ID</key>
-	<string>e-food-9e6e3</string>
+	<string>mcchris-food-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>e-food-9e6e3.appspot.com</string>
+	<string>mcchris-food-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:410522356318:ios:6782d2452ecd04473dc2cf</string>
+	<string>1:133188875849:ios:805f741cce6f62d946f198</string>
 </dict>
 </plist>

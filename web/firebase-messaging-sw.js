@@ -2,12 +2,12 @@ importScripts("https://www.gstatic.com/firebasejs/7.20.0/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/7.20.0/firebase-messaging.js");
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAMLk1-dj8g0qCqU3DkxLKHbrT0VhK5EeQ",
-  authDomain: "e-food-9e6e3.firebaseapp.com",
-  projectId: "e-food-9e6e3",
-  storageBucket: "e-food-9e6e3.appspot.com",
-  messagingSenderId: "410522356318",
-  appId: "1:410522356318:web:c0983d7d2f5e3e933dc2cf",
+  apiKey: "AIzaSyAOR19DXEvPrV9N2o2n66gMD2arnYqE9lM",
+  authDomain: "mcchris-food-app.appspot.com",
+  projectId: "mcchris-food-app",
+  storageBucket: "mcchris-food-app.appspot.com",
+  messagingSenderId: "133188875849",
+  appId: "1:133188875849:ios:805f741cce6f62d946f198",
   databaseURL: "...",
 });
 

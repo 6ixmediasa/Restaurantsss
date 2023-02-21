@@ -2,10 +2,10 @@ import 'package:efood_multivendor_restaurant/data/model/response/language_model.
 import 'package:efood_multivendor_restaurant/util/images.dart';
 
 class AppConstants {
-  static const String APP_NAME = 'StackFood Restaurant';
+  static const String APP_NAME = 'McChris Stores';
   static const double APP_VERSION = 6.1;
 
-  static const String BASE_URL = 'https://stackfood-admin.6amtech.com';
+  static const String BASE_URL = 'https://Mcchrisrestaurant.co.za';
   static const String CONFIG_URI = '/api/v1/config';
   static const String LOGIN_URI = '/api/v1/auth/vendor/login';
   static const String FORGET_PASSWORD_URI = '/api/v1/auth/vendor/forgot-password';
